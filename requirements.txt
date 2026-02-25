@@ -1,0 +1,6 @@
+# Core Kafka Python client
+kafka-python==2.3.0
+# Streaming
+faust-streaming==0.11.3
+# Compatible aiokafka version
+aiokafka==0.13.0
